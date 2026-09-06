@@ -12,11 +12,8 @@
 
 🌟 Estou construindo minha carreira passo a passo, com curiosidade, dedicação e vontade de evoluir constantemente.
 
-[![Linkedin: Kauan](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)]([https://www.linkedin.com/in/engsoft-paulo-kauan/])
-[![GitHub Kauan](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)]([https://github.com/KauanGreg])
-
 ### Skills:
-![Java]([https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))![Golang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![Golang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=KauanGreg&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
