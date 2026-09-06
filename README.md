@@ -1,25 +1,26 @@
-## Olá, eu sou o Kauan! 👋
+## Olá, tudo bem? 👋 Eu sou o Kauan, aspirante a Engenheiro de Software.
 
-<div align="center">
-  <a href = "https://github.com/KauanGreg">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=KauanGreg&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanGreg&layout-=compact&langs_count=16&theme=blue_navy"/>
-</div>
+🎓 Sou estudante de Engenharia de Software, construindo minha trajetória na área de tecnologia com foco em desenvolvimento de software e buscando transformar conhecimento técnico em soluções práticas e eficientes.
 
-<div align="center">
-<br>
-<br>
+📚 Ao longo da graduação, venho desenvolvendo uma base sólida em Lógica de Programação, Algoritmos e Estruturas de Dados, Banco de Dados e Arquitetura de Software, além de estar constantemente ampliando meus conhecimentos em desenvolvimento e engenharia de software.
 
-[![My Skills](https://skillicons.dev/icons?i=java,c)](https://skillicons.dev)
+🛠️ Tenho interesse em diferentes etapas do desenvolvimento de sistemas, desde a resolução de problemas e construção da lógica até a estruturação, desenvolvimento e manutenção de aplicações. Gosto de entender como e por que uma solução funciona, e não apenas de fazê-la funcionar.
 
-##
+🧠 Acredito que programação vai muito além de escrever código: envolve raciocínio lógico, organização, capacidade de resolver problemas e aprendizado contínuo. Por isso, procuro sempre aprimorar minhas habilidades e transformar conceitos teóricos em projetos e experiências práticas.
 
-<div>
-  <a href = "mailto:paulo.kgcg@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" target="_blank"></a>
-  <a href = "https://www.instagram.com/pk_greg/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=for-the-badge" target="_blank"></a>
-</div>
+🚀 Neste momento, estou em busca de uma oportunidade para ingressar profissionalmente na área de tecnologia, colocar meus conhecimentos em prática, aprender com profissionais experientes e contribuir para projetos reais. Você pode se deparar com alguns projetos feitos em C, Java ou Golang.
 
-<div>
-  
-   ![snake animation](https://github.com/KauanGreg/KauanGreg/blob/output/github-contribution-grid-snake2.svg)
-</div>
+🌟 Estou construindo minha carreira passo a passo, com curiosidade, dedicação e vontade de evoluir constantemente.
+
+[![Linkedin: Kauan](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)]([https://www.linkedin.com/in/engsoft-paulo-kauan/])
+[![GitHub Kauan](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)]([https://github.com/KauanGreg])
+
+### Skills:
+![Java]([https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))![Golang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=KauanGreg&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=KauanGreg&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KauanGreg&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
